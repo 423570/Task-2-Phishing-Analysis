@@ -1,0 +1,16 @@
+Subject: Urgent: Verify Your PayPal Account to Avoid Suspension
+From: support@paypal.com <notify@secure-p4ypal.net>
+To: user@example.com
+Date: June 24, 2025
+
+Dear Customer,
+
+We detected suspicious activity in your PayPal account and have temporarily limited it for your protection.
+
+Please verify your account immediately by clicking the link below:
+https://paypal.com.secureverify-login.com
+
+Failure to verify within 24 hours will result in permanent account suspension.
+
+Thank you,  
+PayPal Security Team
